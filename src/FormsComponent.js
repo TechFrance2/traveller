@@ -3,7 +3,7 @@ import React from 'react'
 
 function FormsComponent(props) {
     return (
-     <main>
+     <main className= "main">
        <form>
          <input 
          type= "text"
